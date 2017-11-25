@@ -22,5 +22,5 @@ cse:
     address: 0.0.0.0:8080
   credentials:
     accessKey: OFM4RHRPSIUB2BWAMBGU
-    secretKey: bMjvNdNDlw6hrd5qp838fi5CruaaMnlaeHInzlm
+    secretKey: bMjVNdNDlw6hrd5qp838fi5CruaaMnlaleHInzlm
     akskCustomCipher: default
