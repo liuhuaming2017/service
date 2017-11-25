@@ -1,4 +1,4 @@
-APPLICATION_ID: pojotest
+APPLICATION_ID: springmvctest
 service_description:
   name: service
   version: 0.0.1
@@ -21,6 +21,6 @@ cse:
   rest:
     address: 0.0.0.0:8080
   credentials:
-    accessKey: OFM4RHRPSIUB2BWAMBGU
-    secretKey: bMjVNdNDlw6hrd5qp838fi5CruaaMnlaleHInzlm
+    accessKey: ak
+    secretKey: sk
     akskCustomCipher: default
