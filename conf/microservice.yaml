@@ -1,0 +1,5 @@
+#微服务的私有属性
+APPLICATION_ID: myapp
+service_description:
+  name: test03
+  version: 0.0.1
